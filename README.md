@@ -159,6 +159,7 @@ app.use(session({
 ```
 
 As you can see, the session `secret` used to sign the session is a hardcoded sensitive information inside the code.
+auto trigg
 
 First attempt to fix it, can be to move it out to a config file such as:
 ```js
