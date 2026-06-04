@@ -73,7 +73,7 @@ Here are the exploitable vulnerable packages:
 * Information exposure via Hardcoded values in code
 * Security misconfiguration exposes server information 
 * Insecure protocol (HTTP) communication 
-
+...
 #### Code injection
 
 The page at `/account_details` is rendered as an Handlebars view.
